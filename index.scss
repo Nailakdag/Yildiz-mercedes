@@ -45,11 +45,16 @@ header {
     font-size: 14px;
     color: #e6e6e6;
     margin-bottom: 10px;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 200;
+    font-style: normal;
   }
   .trustworthy-friend {
-    font-size: 40px;
+    font-family: pt-serif, serif;
+    font-weight: 700;
+    font-style: normal;
     color: #0d67b4;
-    font-weight: 600;
+    font-size: 40px;
   }
 }
 .jobs {
@@ -57,16 +62,21 @@ header {
   padding: 0 32px;
   display: flex;
   flex-wrap: wrap;
-  column-gap: 14px;
+  column-gap: 8px;
   row-gap: 5px;
   justify-content: center;
   font-family: Gibson, Light;
   .jobs-description {
     color: #e6e6e6;
     font-size: 14px;
-
+    display: flex;
+    align-items: center;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 200;
+    font-style: normal;
     .circle {
-      margin-right: 3px;
+      margin-right: 8px;
+      font-size: 10px;
     }
   }
 }
@@ -224,7 +234,9 @@ header {
     .trustworthy-friend-2 {
       font-size: 40px;
       color: #0d67b4;
-      font-weight: 600;
+      font-family: pt-serif, serif;
+      font-weight: 700;
+      font-style: normal;
     }
   }
   .jobs {
