@@ -1,0 +1,15 @@
+<svg id="Instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="21" height="21" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="35" height="35" fill="rgba(255,255,255,0)"/>
+  <g id="Group_14" data-name="Group 14" transform="translate(7 7)">
+    <g id="Group_13" data-name="Group 13" clip-path="url(#clip-path)">
+      <path id="Path_16" data-name="Path 16" d="M14.571,21H6.429A6.436,6.436,0,0,1,0,14.571V6.429A6.437,6.437,0,0,1,6.429,0h8.141A6.437,6.437,0,0,1,21,6.429v8.141A6.437,6.437,0,0,1,14.571,21M6.429,1.572A4.862,4.862,0,0,0,1.572,6.429v8.141a4.862,4.862,0,0,0,4.857,4.857h8.141a4.862,4.862,0,0,0,4.857-4.857V6.429a4.862,4.862,0,0,0-4.857-4.857Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_17" data-name="Path 17" d="M57.423,62.732a5.312,5.312,0,1,1,5.312-5.312,5.318,5.318,0,0,1-5.312,5.312m0-9.014a3.7,3.7,0,1,0,3.7,3.7,3.706,3.706,0,0,0-3.7-3.7" transform="translate(-46.923 -46.92)" fill="#fff"/>
+      <path id="Path_18" data-name="Path 18" d="M153.5,33.8a1.383,1.383,0,1,1-1.383-1.383A1.383,1.383,0,0,1,153.5,33.8" transform="translate(-135.729 -29.185)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
