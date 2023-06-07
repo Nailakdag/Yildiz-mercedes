@@ -1,1 +1,1 @@
-https://wonderful-kataifi-bc3eb6.netlify.app tıklayarak siteye ulaşabilirsiniz.
+[https://marvelous-sundae-b1b9e3.netlify.app] tıklayarak siteye ulaşabilirsiniz.
