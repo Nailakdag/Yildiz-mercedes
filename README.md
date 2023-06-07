@@ -1,1 +1,1 @@
-https://precious-valkyrie-30e534.netlify.app tıklayarak siteye ulaşabilirsiniz.
+https://joyful-flan-593a82.netlify.app tıklayarak siteye ulaşabilirsiniz.
