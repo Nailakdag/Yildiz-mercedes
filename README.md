@@ -1,1 +1,1 @@
-https://marvelous-sundae-b1b9e3.netlify.app tıklayarak siteye ulaşabilirsiniz.
+https://precious-valkyrie-30e534.netlify.app tıklayarak siteye ulaşabilirsiniz.
