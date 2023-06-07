@@ -1,1 +1,1 @@
-https://joyful-flan-593a82.netlify.app tıklayarak siteye ulaşabilirsiniz.
+https://unrivaled-brigadeiros-f3177f.netlify.app tıklayarak siteye ulaşabilirsiniz.
